@@ -76,10 +76,10 @@
             echo"
             <tbody>
             <tr>
-            <td>".$cliente['nome']."</td>
-            <td>".$cliente['email']."</td>
-            <td>".$cliente['data_nasc']."</td>
-            <td>".$cliente['cartao']."</td>
+            <td>".$cliente["nome"]."</td>
+            <td>".$cliente["email"]."</td>
+            <td>".$cliente["data_nasc"]."</td>
+            <td>".$cliente["cartao"]."</td>
             </tr>
             </tbody>
             </table>
